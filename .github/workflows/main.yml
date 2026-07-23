@@ -1,0 +1,7 @@
+name:
+
+  push:
+
+    on:
+
+    branches: ["main"]
